@@ -4,10 +4,13 @@
     margin: 0;
     scroll-behavior: smooth;
 }
+/* body style */
 
 body {
     background-color: #d9dcd6;
 }
+
+/* header style */
 
 .header {
     padding: 20px;
@@ -16,15 +19,20 @@ body {
     color: #ffffff;
 }
 
+/* header h1 style */
+
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* header h1 "seo" style */
+
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/* header nav style */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -33,24 +41,29 @@ body {
     font-size: 20px;
 }
 
+/* header nav ul style */
 .header nav ul {
     list-style-type: none;
 }
 
+/* header nav ul li style */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* a style */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* p style */
 p {
     font-size: 16px;
 }
 
+/* hero style */
 .hero {
     height: 800px;
     width: 100%;
@@ -60,22 +73,26 @@ p {
     background-position: center;
 }
 
+/* float left style */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* float right style */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* main style */
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* aside text style */
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -87,12 +104,14 @@ main {
     color: #ffffff;
 }
 
+/* aside icon style */
 .search-engine-optimization img,
 .online-reputation-management img,
 .social-media-marketing img {
     max-height: 200px;
 }
 
+/* aside h2 style */
 .search-engine-optimization h2,
 .online-reputation-management h2,
 .social-media-marketing h2 {
@@ -100,6 +119,7 @@ main {
     font-size: 36px;
 }
 
+/* aside style */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -111,24 +131,26 @@ aside {
     background-color: #2589bd;
 }
 
+/* .aside style */
 .aside{
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* aside h3 style */
 .aside h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* .aside img style */
 .aside img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-/* Footer selector */
-
+/* footer style */
 footer {
     padding: 30px;
     clear: both;
@@ -136,6 +158,7 @@ footer {
     text-align: center;
 }
 
+/* footer h2 style */
 footer h2 {
     font-size: 20px;
 }
